@@ -1,6 +1,7 @@
-# optopus
+optopus
+=======
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure optimization library
 
 ## Usage
 
